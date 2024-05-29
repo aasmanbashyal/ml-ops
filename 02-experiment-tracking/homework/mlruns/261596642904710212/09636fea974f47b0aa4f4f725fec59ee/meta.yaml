@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fun/ml-ops-test/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/261596642904710212/09636fea974f47b0aa4f4f725fec59ee/artifacts
+end_time: 1716972988471
+entry_point_name: ''
+experiment_id: '261596642904710212'
+lifecycle_stage: active
+run_id: 09636fea974f47b0aa4f4f725fec59ee
+run_name: monumental-worm-22
+run_uuid: 09636fea974f47b0aa4f4f725fec59ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716972968670
+status: 3
+tags: []
+user_id: Aasman

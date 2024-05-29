@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fun/ml-ops-test/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/561276936397915525/1895d5fdc6ea41d29ce8d72109b7ac73/artifacts
+end_time: 1716972308969
+entry_point_name: ''
+experiment_id: '561276936397915525'
+lifecycle_stage: active
+run_id: 1895d5fdc6ea41d29ce8d72109b7ac73
+run_name: calm-wren-389
+run_uuid: 1895d5fdc6ea41d29ce8d72109b7ac73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716972289001
+status: 3
+tags: []
+user_id: Aasman

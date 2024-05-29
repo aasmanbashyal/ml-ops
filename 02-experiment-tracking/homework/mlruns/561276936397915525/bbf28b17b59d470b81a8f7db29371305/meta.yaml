@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fun/ml-ops-test/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/561276936397915525/bbf28b17b59d470b81a8f7db29371305/artifacts
+end_time: 1716972860660
+entry_point_name: ''
+experiment_id: '561276936397915525'
+lifecycle_stage: active
+run_id: bbf28b17b59d470b81a8f7db29371305
+run_name: honorable-bass-936
+run_uuid: bbf28b17b59d470b81a8f7db29371305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716972842250
+status: 3
+tags: []
+user_id: Aasman

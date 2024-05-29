@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fun/ml-ops-test/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/261596642904710212/b7f7ed56d7e3457a9d5896ab35551bf5/artifacts
+end_time: 1716973083264
+entry_point_name: ''
+experiment_id: '261596642904710212'
+lifecycle_stage: active
+run_id: b7f7ed56d7e3457a9d5896ab35551bf5
+run_name: invincible-hound-940
+run_uuid: b7f7ed56d7e3457a9d5896ab35551bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716973063932
+status: 3
+tags: []
+user_id: Aasman
